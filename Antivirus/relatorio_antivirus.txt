@@ -1,0 +1,4 @@
+C:\Users\henri\Desktop\virus\execucao-aula-teste.exe
+C:\Users\henri\Desktop\virus\execucao-aula.exe
+C:\Users\henri\Desktop\virus\script-aula-teste.bat
+C:\Users\henri\Desktop\virus\script-aula.bat
