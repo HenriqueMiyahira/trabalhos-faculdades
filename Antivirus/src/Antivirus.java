@@ -9,6 +9,7 @@ public class Antivirus {
     public static void main(String[] args) {
     	
         String diretorio = "C:\\Users\\henri\\Desktop\\virus";
+        //está o meu diretório da pasta onde os arquivos de vírus estavam armazenados, trocar se necessário
 
         List<String> arquivosAchados = new ArrayList<>();
 
